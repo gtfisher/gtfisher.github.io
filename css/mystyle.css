@@ -1,0 +1,19 @@
+
+
+.jsgrid-header-row > .jsgrid-header-cell {
+    background: #62615B;
+    color: #ffffff;
+}
+
+.jsgrid-grid-header {
+    background: #62615B;
+   
+}
+
+.jsgrid-row>.jsgrid-cell {
+    background: #62615B;
+}
+
+.jsgrid-alt-row > .jsgrid-cell {
+    background: rgb(46, 45, 42);
+}

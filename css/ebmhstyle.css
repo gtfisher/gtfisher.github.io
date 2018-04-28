@@ -1,0 +1,27 @@
+body,
+  html {
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/autoroller.JPG");
+    min-height: 75%;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .vehdim {
+    float: left;
+    margin-right: 1%
+  }
